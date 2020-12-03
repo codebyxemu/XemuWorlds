@@ -1,0 +1,6 @@
+name: XemuWorlds
+version: ${project.version}
+main: me.xemu.xemuworlds.XemuWorlds
+api-version: 1.16
+authors: [ Xemu ]
+description: Create your worlds with xemu worlds =)
