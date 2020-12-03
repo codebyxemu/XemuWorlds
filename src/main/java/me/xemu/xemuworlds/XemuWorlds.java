@@ -7,7 +7,6 @@ public final class XemuWorlds extends JavaPlugin {
     @Override public void onEnable()
     {
 
-
     };
 
     @Override public void onDisable()
